@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator>
+  <link href="https://anthonyeriksson.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" />
+  <updated>2020-05-09T18:53:42+00:00</updated>
+  <id>https://anthonyeriksson.com/</id>
+
+  
+    <title type="html">Anthony Eriksson</title>
+  
+
+  
+    <subtitle>Experienced Game Developer and 3D Generalist</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">The Curse Of Tugarin</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="The Curse Of Tugarin" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/the-curse-of-tugarin</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row text-left&quot;&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;h4&gt;My Contributions&lt;/h4&gt;
+
+                        &lt;li&gt;PhysX.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Intergated Nvidia PhysiX API into our engine.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Interactable objects.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Levers that can be triggered to open doors.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Destructible objects.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Pots and chests some might even drop loot.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Camera Shake.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Implemented a quick and easy way to interact with the camera when taking damage or using abilities.&lt;/i&gt;&lt;/span&gt;
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+
+            &lt;ul class=&quot;list-unstyled&quot;&gt;
+                &lt;h4&gt;Project Details&lt;/h4&gt;
+                    &lt;li&gt;10 weeks half time.&lt;/li&gt;
+                    &lt;li&gt;Achieved with our own engine.&lt;/li&gt;
+                    &lt;li&gt;C++ extended by Lua scripting.&lt;/li&gt;
+                    &lt;li&gt;JSON and custom data formats.&lt;/li&gt;
+                    &lt;li&gt;APIs: DirectX 11, Wwise&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+                &lt;h4&gt;Student Awards&lt;/h4&gt;
+                &lt;ul class=&quot;list-unstyled&quot;&gt;
+                
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Most entertaining&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best storytelling&lt;/li&gt;
+
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Highest average of all categories&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Least amount of bugs&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Best gameplay&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Best graphics&lt;/li&gt;
+                    &lt;br /&gt;
+                &lt;/ul&gt;
+                &lt;!-- &lt;a href=&quot;games/Install The Ridge.exe&quot; class=&quot;btn btn-md btn-outline-inverse&quot;&gt;
+                    &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download Game
+                &lt;/a&gt; --&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Student" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Overscoped</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="Overscoped" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/overscoped</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row text-left&quot;&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;h4&gt;My Contributions&lt;/h4&gt;
+
+                        &lt;li&gt;Moving obstacles.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Walls, platforms and other obstacles that will hinder the player.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;PvP mode.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;A brawl arena where players can throw can throw falling objects and other players to try and knock them outside of the arena.&lt;/i&gt;&lt;/span&gt;
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+
+            &lt;ul class=&quot;list-unstyled&quot;&gt;
+                &lt;h4&gt;Project Details&lt;/h4&gt;
+                    &lt;li&gt;9 weeks half time.&lt;/li&gt;
+                    &lt;li&gt;Achieved with our own engine.&lt;/li&gt;
+                    &lt;li&gt;C++ extended by Lua scripting.&lt;/li&gt;
+                    &lt;li&gt;JSON and custom data formats.&lt;/li&gt;
+                    &lt;li&gt;APIs: DirectX 11, Wwise, FFmpeg&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+                &lt;h4&gt;Student Awards&lt;/h4&gt;
+                &lt;ul class=&quot;list-unstyled&quot;&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Highest average of all categories&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best gameplay&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Most entertaining&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best storytelling&lt;/li&gt;
+
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Least amount of bugs&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Best graphics&lt;/li&gt;
+                    &lt;br /&gt;
+                &lt;/ul&gt;
+                &lt;!-- &lt;a href=&quot;games/Install The Ridge.exe&quot; class=&quot;btn btn-md btn-outline-inverse&quot;&gt;
+                    &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download Game
+                &lt;/a&gt; --&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Student" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">I Am Ledger</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="I Am Ledger" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/i-am-ledger</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row text-left&quot;&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;h4&gt;My Contributions&lt;/h4&gt;
+
+                        &lt;li&gt;Event system.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;The heart of communication between different functions like a trigger telling a spawner to spawn etc.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Spawners.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Like the name implies a spawner that will spawn enemies.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Enemy AI.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;The enemy will follow the player and try to hit the player by shooting. Some enemies will also go away after some time&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Triggers.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;A trigger object that can be placed within the editor and trigger certain events like enemy spawning and random effects.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Health System.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Player health and enemy health also health boxes that can be pickedup during the map.&lt;/i&gt;&lt;/span&gt;
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+
+            &lt;ul class=&quot;list-unstyled&quot;&gt;
+                &lt;h4&gt;Project Details&lt;/h4&gt;
+                    &lt;li&gt;10 weeks half time.&lt;/li&gt;
+                    &lt;li&gt;Achieved with our own engine.&lt;/li&gt;
+                    &lt;li&gt;C++ extended by Lua scripting.&lt;/li&gt;
+                    &lt;li&gt;JSON and custom data formats.&lt;/li&gt;
+                    &lt;li&gt;APIs: DirectX 11, Wwise&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+                &lt;h4&gt;Student Awards&lt;/h4&gt;
+                &lt;ul class=&quot;list-unstyled&quot;&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best gameplay&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Least amount of bugs&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best graphics&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best storytelling&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Highest average of all categories&lt;/li&gt;
+
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Most entertaining&lt;/li&gt;
+                    &lt;br /&gt;
+                &lt;/ul&gt;
+                &lt;!-- &lt;a href=&quot;games/Install The Ridge.exe&quot; class=&quot;btn btn-md btn-outline-inverse&quot;&gt;
+                    &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download Game
+                &lt;/a&gt; --&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Student" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Ridge</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="The Ridge" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/the-ridge</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row text-left&quot;&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;h4&gt;My Contributions&lt;/h4&gt;
+
+                        &lt;li&gt;PhysX Ragdolls.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Using Nvidia PhysX to simulate ragdolls. The ragdolls were exported from Autodesk Maya using Nvidia PhysX DCC Plugin and then imported into our engine.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Inventory system and HUD.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Health bar on players, ammo count hud, using items and quick swap item using keyboard.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Weapons and items.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;All interactable items like heal, weapons and the ability to give item to other players.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Crosshair.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;A crosshair system for different weapon types.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Pickups.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Picking up different items within range that can be found across the map and add it to the inventory.&lt;/i&gt;&lt;/span&gt;
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+
+            &lt;ul class=&quot;list-unstyled&quot;&gt;
+                &lt;h4&gt;Project Details&lt;/h4&gt;
+                    &lt;li&gt;9 weeks half time.&lt;/li&gt;
+                    &lt;li&gt;Achieved with our own engine.&lt;/li&gt;
+                    &lt;li&gt;C++ extended by Lua scripting.&lt;/li&gt;
+                    &lt;li&gt;JSON and custom data formats.&lt;/li&gt;
+                    &lt;li&gt;APIs: DirectX 11, Wwise, FFmpeg&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;col-sm-4 col-lg-offset-0&quot;&gt;
+                &lt;h4&gt;Student Awards&lt;/h4&gt;
+                &lt;ul class=&quot;list-unstyled&quot;&gt;
+                
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Highest average of all categories&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Most entertaining&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best gameplay&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-won&quot;&gt;&lt;/i&gt; Best storytelling&lt;/li&gt;
+
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Least amount of bugs&lt;/li&gt;
+                    &lt;li&gt;&lt;i class=&quot;fa fa-trophy award-lost&quot;&gt;&lt;/i&gt; Best graphics&lt;/li&gt;
+                    &lt;br /&gt;
+                &lt;/ul&gt;
+                &lt;!-- &lt;a href=&quot;games/Install The Ridge.exe&quot; class=&quot;btn btn-md btn-outline-inverse&quot;&gt;
+                    &lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download Game
+                &lt;/a&gt; --&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Student" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Candy Crush Friends Saga</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="Candy Crush Friends Saga" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/candy-crush-friends-saga</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row&quot;&gt;
+
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;h4&gt;My Contributions&lt;/h4&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;li&gt;Candy Surprise.&lt;/li&gt;
+                        &lt;span class=&quot;li-span&quot;&gt;&lt;i&gt;Reworked the experience of opening a candy surprise from flow, visuals, and interactions. - Candy Surprise is the main driver for our collection system. It's a box that contains stickers that you need to unlock charcters and boosters.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Live Ops.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Worked on creating and organizing Bubblegum troll event which was running through the summer of 2019. The event was a team event and was active for only a limited amount of time and the reward was the Bubblegum troll character. The players that played even further after unlocking the character also got a skin for him.&lt;/i&gt;&lt;/span&gt;
+
+                        
+                        
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+         &lt;div class=&quot;col-sm-5 col-sm-offset-0&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;li&gt;Quest System.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Parsing for reading and saving quests and introduction tutorial.&lt;/i&gt;&lt;/span&gt;
+
+                        &lt;li&gt;Pre Game Screen.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Reworked the pre game screen with better visuals and to showcase all the available characters for the level and the ability to hotswap between their respective outfits.&lt;/i&gt;&lt;/span&gt;
+
+                        
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+    &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+        &lt;!-- App Store --&gt;
+            &lt;a href=&quot;https://apps.apple.com/us/app/candy-crush-friends-saga/id1225867923&quot; target=&quot;_blank&quot;&gt;
+                &lt;img class=&quot;app-store-profile-badge&quot; alt=&quot;Download On The App Store&quot; src=&quot;img/appdownload/app-store-badge.png&quot; /&gt;
+            &lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-sm-5 col-sm-offset-0&quot;&gt;
+        &lt;!-- Google Play Store --&gt;
+        &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.king.candycrush4&amp;amp;hl&quot; target=&quot;_blank&quot;&gt;
+            &lt;img class=&quot;play-store-profile-badge&quot; alt=&quot;Get it on Google Play&quot; src=&quot;img/appdownload/google-play-badge.png&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Professional" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Candy Crush Saga</title>
+      <link href="https://anthonyeriksson.com/" rel="alternate" type="text/html" title="Candy Crush Saga" />
+      <published>2020-05-03T00:00:00+00:00</published>
+      <updated>2020-05-03T00:00:00+00:00</updated>
+      <id>https://anthonyeriksson.com/candy-crush-saga</id>
+      <content type="html" xml:base="https://anthonyeriksson.com/">&lt;div class=&quot;row&quot;&gt;
+
+        &lt;div class=&quot;text-center&quot;&gt;
+            &lt;h4&gt;My Contributions&lt;/h4&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;li&gt;Ads.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Maintaining Ads, intergrating new Ad tech and creating game related features for ads.&lt;/i&gt;&lt;/span&gt;
+                        
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+
+         &lt;div class=&quot;col-sm-5 col-sm-offset-0&quot;&gt;
+                    &lt;ul class=&quot;list&quot;&gt;
+                        &lt;li&gt;Ads Automated Testing.&lt;/li&gt;
+                        &lt;span&gt;&lt;i&gt;Maintained and created Automated Testing for ads related game features. The test framework was running on Java and each test goal was to play through a specific ad feature and see if it works or not.&lt;/i&gt;&lt;/span&gt;
+                        
+                    &lt;/ul&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+    &lt;div class=&quot;col-sm-5 col-sm-offset-1&quot;&gt;
+        &lt;!-- App Store --&gt;
+            &lt;a href=&quot;https://apps.apple.com/se/app/candy-crush-saga/id553834731&quot; target=&quot;_blank&quot;&gt;
+                &lt;img class=&quot;app-store-profile-badge&quot; alt=&quot;Download On The App Store&quot; src=&quot;img/appdownload/app-store-badge.png&quot; /&gt;
+            &lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;col-sm-5 col-sm-offset-0&quot;&gt;
+        &lt;!-- Google Play Store --&gt;
+        &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.king.candycrushsaga&amp;amp;&quot; target=&quot;_blank&quot;&gt;
+            &lt;img class=&quot;play-store-profile-badge&quot; alt=&quot;Get it on Google Play&quot; src=&quot;img/appdownload/google-play-badge.png&quot; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Professional" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
